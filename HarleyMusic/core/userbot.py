@@ -51,7 +51,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("GJ516_DISCUSS_GROUP")
+                await self.one.join_chat("ThinkGrowMore")
                 await self.one.join_chat("GJ516_DISCUSS_GROUP")
             except:
                 pass
@@ -72,7 +72,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("GJ516_DISCUSS_GROUP")
+                await self.two.join_chat("ThinkGrowMore")
                 await self.two.join_chat("GJ516_DISCUSS_GROUP")
             except:
                 pass
@@ -93,7 +93,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("GJ516_DISCUSS_GROUP")
+                await self.three.join_chat("ThinkGrowMore")
                 await self.three.join_chat("GJ516_DISCUSS_GROUP")
             except:
                 pass
@@ -114,7 +114,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("GJ516_DISCUSS_GROUP")
+                await self.four.join_chat("ThinkGrowMore")
                 await self.four.join_chat("GJ516_DISCUSS_GROUP")
             except:
                 pass
@@ -135,7 +135,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("GJ516_DISCUSS_GROUP")
+                await self.five.join_chat("ThinkGrowMore")
                 await self.five.join_chat("GJ516_DISCUSS_GROUP")
             except:
                 pass
